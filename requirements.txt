@@ -1,0 +1,12 @@
+svgwrite 
+svg.path 
+svgpathtools 
+svgutils 
+jsonpickle 
+html2image 
+svglib 
+reportlab 
+colour 
+IPython 
+pandas
+octa
